@@ -22,4 +22,3 @@ setuptools==80.9.0
 sqlparse==0.5.3
 urllib3==2.5.0
 webencodings==0.5.1
-blog/fixtures/
